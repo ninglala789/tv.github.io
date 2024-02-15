@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1, group-title="中央频道", CCTV-1
+http://36.249.150.141:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-2
+http://36.249.150.141:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-3
+http://61.52.159.114:808/hls/3/index.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-4
+http://61.52.159.114:808/hls/4/index.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-5
+http://61.52.159.114:808/hls/5/index.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-6
+http://61.52.159.114:808/hls/6/index.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-7
+http://61.52.159.114:808/hls/7/index.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-8
+http://61.52.159.114:808/hls/8/index.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-9
+http://61.52.159.114:808/hls/9/index.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-10
+http://61.52.159.114:808/hls/10/index.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-11
+http://61.52.159.114:808/hls/11/index.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-12
+http://61.52.159.114:808/hls/12/index.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-13
+http://61.52.159.114:808/hls/13/index.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-14
+http://61.52.159.114:808/hls/14/index.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-15
+http://61.52.159.114:808/hls/15/index.m3u8
